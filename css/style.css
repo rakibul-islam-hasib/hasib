@@ -29,4 +29,9 @@ nav ul li
     display: inline-block;
     margin-right: 10px;
     margin-top: 26px;
+    text-transform: uppercase;
+}
+nav ul li a
+{
+    text-decoration: none;
 }
