@@ -4,3 +4,29 @@
     padding: 0;
 }
 /* nav menu css start here */
+nav
+{
+    background-color: aquamarine;
+    height: 70px;
+    width: 100%;
+}
+.logo
+{
+    font-size: 2.6em;
+    font-weight: 700;
+    line-height: 70px;
+    padding: 10px;
+}
+nav ul
+{
+    float: right;
+    margin-right: 30px;
+    /* padding: 10px ; */
+    list-style: none;
+}
+nav ul li
+{
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 26px;
+}
