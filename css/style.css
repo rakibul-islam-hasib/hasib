@@ -35,3 +35,18 @@ nav ul li a
 {
     text-decoration: none;
 }
+.box1
+{
+    height: 60px;
+    width: 500px;
+    background-color: antiquewhite;
+    margin-top: 45px;
+    margin-left: 27%;
+    margin-right: 27%;
+    border: 3px solid lightgreen;
+}
+.box1 h1
+{
+    text-align: center;
+    padding: 10px;
+}
